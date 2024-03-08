@@ -1,0 +1,16 @@
+com\Tallerdecoches\repositories\OrdenReparacionRepositoryTest.class
+com\Tallerdecoches\services\CodigoPostalServiceTest.class
+com\Tallerdecoches\repositories\PiezaRepositoryTest.class
+com\Tallerdecoches\repositories\Datos.class
+com\Tallerdecoches\repositories\ManoDeObraRepositoryTest.class
+com\Tallerdecoches\controllers\PropietarioControllerTest.class
+com\Tallerdecoches\repositories\EntradaPiezaRepositoryTest.class
+com\Tallerdecoches\repositories\PropietarioRepositoryTest.class
+com\Tallerdecoches\repositories\CodigoPostalRepositoryTest.class
+com\Tallerdecoches\repositories\VehiculoRepositoryTest.class
+com\Tallerdecoches\controllers\CodigoPostalControllerTest.class
+com\Tallerdecoches\repositories\AlbaranProveedorRepositoryTest.class
+com\Tallerdecoches\repositories\FacturaProveedorRespositoryTest.class
+com\Tallerdecoches\repositories\ProveedorRepositoryTest.class
+com\Tallerdecoches\repositories\PiezasReparacionRepositoryTest.class
+com\Tallerdecoches\services\PropietarioServiceTest.class
